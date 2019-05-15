@@ -2,4 +2,9 @@
 ???
 233
 hello
+<<<<<<< HEAD
 master change1
+=======
+dev change 1
+dev master change 1
+>>>>>>> dev
